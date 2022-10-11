@@ -1,0 +1,42 @@
+Description = "rayrain's blog"
+Keywords =  "righteoux"
+Subtitle = ""
+AuthorImg = "/img/avatar.png"
+AuthorName = "rayrain"
+Introduce = "a righteoux"
+DateFormat = "2006-01-02"
+YearFormat = "2006年"
+MonthFormat = "01-02"
+
+[Footer]
+  StorageLink = "https://pages.github.com/"
+  StorageName = "Github Pages"
+  ICPLink = "https://pages.github.com/"
+  ICPNo = "Xodom"
+
+
+#[[Socials]]
+#  Name = "GitHub"
+#  Icon = "github"
+#  URL = "https://github.com/elkan1788/"
+
+#[[Socials]]
+#  Name = "知乎"
+#  Icon = "globe"
+#  URL = "https://www.zhihu.com/people/fan-meng-xing-chen-1"
+
+#[[Links]]
+#  Name = "Nutz"
+#  Permalink = "https://nutzam.com/"
+
+#[[Links]]
+ # Name = "JFinal"
+ # Permalink = "https://jfinal.com/"
+
+#[[Links]]
+ # Name = "Wendal"
+ # Permalink = "http://wendal.net/"
+
+#[[Links]]
+#  Name = "廖雪峰"
+#  Permalink = "https://www.liaoxuefeng.com/"
