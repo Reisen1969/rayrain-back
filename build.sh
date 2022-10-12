@@ -12,5 +12,6 @@ cd ./public
 #git pull
 git add -A .
 git commit -m "new post\r\n"
-git push -f
+git push origin HEAD:master -f
+
 echo "********************end!!"
